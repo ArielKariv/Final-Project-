@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "Date": "2025-03-13",
+      "Predicted_Close": 573.8430913238524
+    },
+    {
+      "Date": "2025-03-12",
+      "Predicted_Close": 572.2878575420378
+    },
+    {
+      "Date": "2025-03-11",
+      "Predicted_Close": 571.6874084880351
+    },
+    {
+      "Date": "2025-03-10",
+      "Predicted_Close": 575.0394992809295
+    },
+    {
+      "Date": "2025-03-07",
+      "Predicted_Close": 572.4305526072978
+    }
+  ],
+  "recommendation": "HOLD",
+  "expectedChange": "-0.25%"
+}

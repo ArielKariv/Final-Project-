@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "Date": "2025-03-15",
+      "Predicted_Close": 581.5944195592402
+    },
+    {
+      "Date": "2025-03-16",
+      "Predicted_Close": 579.2980936088561
+    },
+    {
+      "Date": "2025-03-17",
+      "Predicted_Close": 577.2572717306613
+    },
+    {
+      "Date": "2025-03-18",
+      "Predicted_Close": 579.8034287130831
+    },
+    {
+      "Date": "2025-03-19",
+      "Predicted_Close": 578.8808234002589
+    },
+    {
+      "Date": "2025-03-20",
+      "Predicted_Close": 584.3153786001204
+    },
+    {
+      "Date": "2025-03-21",
+      "Predicted_Close": 587.5944440889357
+    }
+  ],
+  "recommendation": "BUY",
+  "expectedChange": "1.03%"
+}
